@@ -31,3 +31,8 @@ package inheritance
 //
 //    }
 //}
+
+  fun main() {
+
+
+  }

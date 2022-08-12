@@ -77,31 +77,31 @@
 //
 //  }
 
-  class Cat {
-
-      val name : String ?="Olive"
-      val age : Int = 6
-      val hasfur : Boolean = true
-
-
-      fun drink ():Unit{
-
-          println("$name is drinking")
-      }
-
-      fun walk ():Unit{
-          println("$name is drinking")
-      }
-  }
-
-
-      fun main(){
-
-          val cat1 = Cat()
-          println("I am having cat her name is ${cat1.name} and her age is ${cat1.age} and has brownfur and its ${cat1.hasfur}")
-
-
-      }
+//  class Cat {
+//
+//      val name : String ?="Olive"
+//      val age : Int = 6
+//      val hasfur : Boolean = true
+//
+//
+//      fun drink ():Unit{
+//
+//          println("$name is drinking")
+//      }
+//
+//      fun walk ():Unit{
+//          println("$name is drinking")
+//      }
+//  }
+//
+//
+//      fun main(){
+//
+//          val cat1 = Cat()
+//          println("I am having cat her name is ${cat1.name} and her age is ${cat1.age} and has brownfur and its ${cat1.hasfur}")
+//
+//
+//      }
 
 
 

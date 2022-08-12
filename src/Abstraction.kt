@@ -22,7 +22,6 @@
      open fun eat (){
          println("Animal is eating")
 
-
      }
 
      fun crouch (){
