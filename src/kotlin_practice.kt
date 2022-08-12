@@ -623,7 +623,9 @@ fun main() {
 //
 //    }
 
+  var arrayname = arrayOf<String>("kks","aarvi","kaurvi")
 
+    println("Print ${arrayname[1]}")
 
 }
 
